@@ -58,18 +58,4 @@ This allows zoo administrators to track visitor bookings, monitor attendance tre
 **NOTE:**
        By integrating these features, the admin section of the Zoo Management System empowers administrators to efficiently view, update, 
     and delete user ticket data, ensuring smooth operations and optimal management of resources.
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    
-
-    
-
-
-
-
-
-
-**NOTE:**
-    Overall, the ticket booking facility integrated into the Zoo Management System offers visitors a convenient way to plan 
-    their zoo experience while providing administrators with valuable insights to enhance operational efficiency.
-
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ 
